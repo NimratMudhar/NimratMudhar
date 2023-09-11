@@ -7,7 +7,7 @@
 
 - 🌱 I am currently learning **Data Science**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xylBo01UfecJKOkbxyvWN_c5dNf4ylp5/view?usp=drive_link](https://drive.google.com/file/d/1xylBo01UfecJKOkbxyvWN_c5dNf4ylp5/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1xylBo01UfecJKOkbxyvWN_c5dNf4ylp5/view?usp=drive_link)
 
 - 💬 Ask me about **SQL, Python, Tableau & Excel**
 
